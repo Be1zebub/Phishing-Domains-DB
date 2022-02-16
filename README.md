@@ -1,11 +1,7 @@
 # Stop-Discord-Nitro-Scam-BOT
 A discord bot that tracks scam links and blocks them  
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/H-cNweikxjY" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>  
+  
+[![Demo video](https://raw.githubusercontent.com/Be1zebub/Stop-Discord-Nitro-Scam-BOT/main/thumb.jpg)](https://www.youtube.com/watch?v=https://youtu.be/H-cNweikxjY)  
   
 Invite link: https://discord.com/oauth2/authorize?client_id=943234733066846289&permissions=1511828810822&scope=bot  
 Demo server: https://discord.gg/xUEg94etAk (you can test the bot here)  
