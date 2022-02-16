@@ -11,4 +11,5 @@ The database of malicious links is update by contributors, so if you want to add
   
 Donate: https://incredible-gmod.ru/#donate  
 My discord guild: https://discord.incredible-gmod.ru/ (community of Russian developers - but we will be glad if our community becomes international)  
+  
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Be1zebub.Stop-Discord-Nitro-Scam-BOT"/> 
