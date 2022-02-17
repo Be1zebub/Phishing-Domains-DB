@@ -1,5 +1,5 @@
 # Stop-Discord-Nitro-Scam-BOT
-A discord bot that tracks scam links and blocks them  
+Discord bot that will help protect your guild from people trying to steal the accounts of your members.  
   
 [![Demo video](https://raw.githubusercontent.com/Be1zebub/Stop-Discord-Nitro-Scam-BOT/main/thumb.jpg)](https://youtu.be/H-cNweikxjY)  
   
