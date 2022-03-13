@@ -14,4 +14,11 @@ The database of malicious links is update by contributors, make a PR if you want
 Donate: https://incredible-gmod.ru/#donate  
 My discord guild: https://discord.incredible-gmod.ru/ (community of Russian developers - but we will be glad if our community becomes international)  
   
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Be1zebub.Stop-Discord-Nitro-Scam-BOT"/> 
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Be1zebub.Stop-Discord-Nitro-Scam-BOT"/>  
+  
+  
+todo:  
+сделать команду:  
+@Stop Nitro Scam! https://discord.com/channels/@me/ChannelID/MessageID  
+бот будет сканировать сообщение на ссылки и создавать PR а затем сканировать каналы гильдии на наличие сообщений от данного мембера и удалять сообщеньки если в них соддержиться ссылка из парент сообщения.  
+В итоге модеру не нужно вруную удалять скам ссылки из всех каналов и бот получает новую скам ссылку в БД
